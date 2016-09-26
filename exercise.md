@@ -44,8 +44,6 @@ A man has to get a fox, a chicken, and a sack of corn across a river. He has a r
 - **The man rows back an empty boat**
 - **The man takes the :chicken: to the far side**
 
-:chicken: :wolf: :corn:
-
 ## Question Five
 
 You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your vessel can carry 1,000 figs at a time. When you travel a nautical mile towards Capertown you must pay a tax of 1 fig, however you do not pay a tax when going the other direction (towards Figopia).
