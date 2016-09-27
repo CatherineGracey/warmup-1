@@ -50,7 +50,7 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 
 What is highest number of figs you can get to Capertown?
 
-**Take three loads of 1000 apples each to the 334 mile point, dropping off each load before returning for the next. 1002 apples have been lost. Take two loads of 999 apples each to the 833 mile point. Take the remaining apples in a single load the rest of the way, retaining 833 figs.**
+**Take three loads of 1000 figs each to the 334 mile point, dropping off each load before returning for the next. 1002 figs have been lost. Take two loads of 999 figs each to the 833 mile point. Take the remaining figs in a single load the rest of the way, retaining 833 figs.**
 
 ## Question Six
 
